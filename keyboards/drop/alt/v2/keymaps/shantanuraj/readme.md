@@ -4,7 +4,7 @@ This is a custom keymap for the Drop ALT v2 keyboard, ported from the original m
 
 ## Features
 
-- Custom key layout with Escape on Caps Lock position
+- **Caps Lock = Ctrl/Esc** - Tap for Escape, hold for Control (game changer!)
 - Grave/Tilde on top-left
 - Media controls on right column (Volume Up/Down, Play/Pause, Fast Forward)
 - **Right Shift acts as Fn key** - Hold Right Shift to access Layer 1
@@ -71,12 +71,15 @@ The RGB toggle key (`Fn + Z`) cycles through four modes:
 ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┼───┤
 │ Tab │ Q │ W │ E │ R │ T │ Y │ U │ I │ O │ P │ [ │ ] │  \  │V- │
 ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴─────┼───┤
-│ Esc  │ A │ S │ D │ F │ G │ H │ J │ K │ L │ ; │ ' │  Enter │Ply│
+│Esc/Ctl│A │ S │ D │ F │ G │ H │ J │ K │ L │ ; │ ' │  Enter │Ply│
 ├──────┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴────┬───┼───┤
 │ Shift  │ Z │ X │ C │ V │ B │ N │ M │ , │ . │ / │ Fn*  │ ↑ │FF │
 ├────┬───┴┬──┴─┬─┴───┴───┴───┴───┴───┴──┬┴───┼───┴┬─┬───┼───┼───┤
 │Ctrl│GUI │Alt │        Space           │Alt │ Fn │ │ ← │ ↓ │ → │
 └────┴────┴────┴────────────────────────┴────┴────┘ └───┴───┴───┘
+
+Special Keys:
+* Esc/Ctl (Caps Lock position) = Tap for Escape, Hold for Control
 * Right Shift = Fn (Layer 1)
 ```
 
